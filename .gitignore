@@ -1,0 +1,5 @@
+# folder ignoredFolder
+ignoredFolder/
+
+#txt files
+docs/*.txt
